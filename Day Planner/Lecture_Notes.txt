@@ -1,0 +1,5 @@
+Lecture Notes
+
+Date: 2019/01/04
+Professor: John Johnson
+Lecture 1: Programming Basics

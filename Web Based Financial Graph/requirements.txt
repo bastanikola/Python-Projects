@@ -1,5 +1,5 @@
 bokeh==0.11.1
-flask=0.12.3
+flask==0.12.3
 gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.8
@@ -9,8 +9,8 @@ pandas==0.18.0
 pandas-datareader==0.2.1
 python-dateutil==2.5.2
 pytz==2016.3
-pyyaml=4.2b1
-requests=2.20.0
+pyyaml==4.2b1
+requests==2.20.0
 requests-file==1.4
 six==1.10.0
 tornado==4.3

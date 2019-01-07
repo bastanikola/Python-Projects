@@ -10,7 +10,7 @@ pandas-datareader==0.2.1
 python-dateutil==2.5.2
 pytz==2016.3
 pyyaml>=4.2b1
-requests==2.9.1
+requests>=2.20.0
 requests-file==1.4
 six==1.10.0
 tornado==4.3

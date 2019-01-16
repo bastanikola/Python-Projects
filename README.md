@@ -1,4 +1,4 @@
-# PYTHON PROJECTS
+# PYTHON DEVELOPMENT PROJECTS
 
 These projects were accomplished in cooperation with Udemy courses:
   - Python 3 Programming: "Begginer to Pro MasterClass" - Dr. Ryan Ahmed and
